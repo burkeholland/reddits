@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.namespace.yourapp"
+	id		= "com.burke.www"
 	version 	= "1.0.0">
 
-	<name></name>
+	<name>Reddits</name>
 
 	<description>
-		
+		A super simple application for testing Phonegap Build With Kendo UI Mobile
 	</description>
 
 	<author href="http://a.shinynew.me"
-		email="">
+		email="burkeholland@gmail.com">
 		Burke Holland
 	</author>
 
